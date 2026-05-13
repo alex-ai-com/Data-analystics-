@@ -1,0 +1,21 @@
+product_key,product_code,product_name,category,subcategory,brand,unit_cost,unit_price,is_active
+1,ELEC-001,"Samsung 55"" QLED TV",Electronics,Television,Samsung,6800.0,12999.0,TRUE
+2,ELEC-002,Apple iPhone 15 Pro,Electronics,Mobile,Apple,18500.0,27999.0,TRUE
+3,ELEC-003,Sony WH-1000XM5 Headphones,Electronics,Audio,Sony,3200.0,6499.0,TRUE
+4,ELEC-004,PlayStation 5 Console,Electronics,Gaming,Sony,7200.0,11999.0,TRUE
+5,ELEC-005,JBL Flip 6 Speaker,Electronics,Audio,JBL,650.0,1799.0,TRUE
+6,ELEC-006,Bose QC45 Headphones,Electronics,Audio,Bose,2900.0,6299.0,TRUE
+7,APP-001,Nike Air Max 270,Apparel,Footwear,Nike,650.0,1899.0,TRUE
+8,APP-002,Adidas Ultraboost 22,Apparel,Footwear,Adidas,780.0,2299.0,TRUE
+9,APP-003,Levis 501 Original Jeans,Apparel,Clothing,Levis,480.0,1299.0,TRUE
+10,APP-004,Puma RS-X Sneakers,Apparel,Footwear,Puma,540.0,1599.0,TRUE
+11,HOME-001,LG Front Loader Washer,Home,Appliances,LG,4200.0,8999.0,TRUE
+12,HOME-002,Dyson V15 Vacuum,Home,Appliances,Dyson,5800.0,11499.0,TRUE
+13,HOME-003,Nespresso Vertuo Plus,Home,Appliances,Nespresso,1200.0,2999.0,TRUE
+14,HOME-004,Russell Hobbs Air Fryer,Home,Appliances,Russell Hobbs,480.0,1399.0,TRUE
+15,BEA-001,LOreal Revitalift Serum,Beauty,Skincare,LOreal,180.0,449.0,TRUE
+16,BEA-002,MAC Ruby Woo Lipstick,Beauty,Makeup,MAC,95.0,295.0,TRUE
+17,BEA-003,Estee Lauder Foundation,Beauty,Makeup,Estee Lauder,240.0,695.0,TRUE
+18,BEA-004,Clinique Moisturiser,Beauty,Skincare,Clinique,220.0,549.0,TRUE
+19,OTH-001,Reusable Shopping Bag,Other,Accessories,Nova,18.0,49.0,TRUE
+20,OTH-002,Gift Card R500,Other,Vouchers,Nova,500.0,500.0,TRUE

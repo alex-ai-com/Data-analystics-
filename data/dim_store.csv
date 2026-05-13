@@ -1,0 +1,11 @@
+store_key,store_code,store_name,province,city,store_type,open_date,floor_size_m2
+1,JHB-001,Sandton City,Gauteng,Johannesburg,Flagship,2018-03-15,2400
+2,JHB-002,Mall of Africa,Gauteng,Midrand,Standard,2019-08-01,1800
+3,PTA-001,Menlyn Park,Gauteng,Pretoria,Standard,2020-02-10,1600
+4,JHB-003,Rosebank,Gauteng,Johannesburg,Express,2023-04-14,700
+5,CPT-001,V&A Waterfront,Western Cape,Cape Town,Flagship,2017-11-20,2200
+6,CPT-002,Canal Walk,Western Cape,Cape Town,Standard,2021-05-05,1500
+7,DBN-001,Gateway Theatre,KwaZulu-Natal,Umhlanga,Standard,2019-01-12,1700
+8,DBN-002,Pavilion,KwaZulu-Natal,Westville,Express,2022-06-18,800
+9,PE-001,Baywest Mall,Eastern Cape,Gqeberha,Standard,2020-09-22,1400
+10,BFN-001,Mimosa Mall,Free State,Bloemfontein,Express,2021-11-30,750
