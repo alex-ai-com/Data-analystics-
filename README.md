@@ -292,8 +292,7 @@ I'm a data analyst building portfolio projects in SQL, Power BI, and analytics e
 
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📺 YouTube: [Data with Clarence](https://youtube.com/@datawithclarence)
-- 📧 Email: you@email.com
+- 📧 Email: alex.gvsu.edu.email.com
 
 If you found this project useful, give it a ⭐ on GitHub.
 
